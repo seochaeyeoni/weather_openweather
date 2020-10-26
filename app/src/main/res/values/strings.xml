@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather_openweather</string>
+    <string name="loading">loading</string>
+    <string name="network_error">network error</string>
+    <string name="nav_header_desc">app_image</string>
+    <string name="nav_header_title">날씨날씨</string>
+    <string name="nav_header_subtitle">Ver.2.1.0</string>
+</resources>
